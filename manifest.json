@@ -1,0 +1,14 @@
+{
+
+    "Name": "Commander White - Custom NPC",
+    "Author": "Suikurix",
+    "Description": "A mod that adds in a custom NPC named Commaner White from Nier Automata",
+    "Version": "1.0.0",
+    "UniqueID": "Suikurix.CommanderWhite",
+    "UpdateKeys": [ "" ],
+    "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+    }
+  
+  
+  }
