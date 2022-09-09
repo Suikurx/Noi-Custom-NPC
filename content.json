@@ -3,42 +3,42 @@
     "Changes": [
         {
             "Action": "Load",
-            "Target": "Characters/Commander",
+            "Target": "Characters/Noi",
             "FromFile": "assets/sprites.png"
         },
         {
             "Action":"Load",
-            "Target": "Portraits/Commander",
+            "Target": "Portraits/Noi",
             "FromFile": "assets/portraits.png"
         },
         {
             "Action": "Load",
-            "Target": "Characters/Dialogue/Commander",
+            "Target": "Characters/Dialogue/Noi",
             "FromFile": "assets/dialogue.json"
         },
         {
             "Action": "Load",
-            "Target": "Characters/Dialogue/MarriageDialogueCommander",
+            "Target": "Characters/Dialogue/MarriageDialogueNoi",
             "FromFile": "assets/marriageDialogue.json"
         },
         {
             "Action": "Load",
-            "Target": "Characters/schedules/Commander",
+            "Target": "Characters/schedules/Noi",
             "FromFile": "assets/schedule.json"
         },
         {
             "Action": "EditData",
             "Target": "Data/NPCGiftTastes",
             "Entries": {
-                "Commander": "This... is for me? Thank you."
+                "Noi": "This... is for me? Thank you."
             }
         },
         {
             "Action": "EditData",
             "Target": "Data/EngagementDialogue",
             "Entries": {
-                "Commander0": "I am excited for our marriage.$h",
-                "Commander1": "I love you..."
+                "Noi0": "I am excited for our marriage.$h",
+                "Noi1": "I love you..."
             }
           }
     ]
